@@ -2,7 +2,9 @@
 
 Run the program by navigating to the directory with the astar.py file and execute the
 following command:
-```python astar.py```
+```
+python astar.py
+```
 Once running, the program will prompt the user to select a heuristic function or analysis
 option:
 ```
