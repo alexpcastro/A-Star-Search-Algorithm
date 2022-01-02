@@ -1,4 +1,4 @@
-# A-Star-Search-Algorithm
+# A Star Search Algorithm
 
 Run the program by navigating to the directory with the astar.py file and execute the
 following command:
